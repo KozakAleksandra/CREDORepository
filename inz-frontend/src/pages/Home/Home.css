@@ -1,0 +1,13 @@
+.home {
+  text-decoration: none;
+  color: black;
+  font-size: 400px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.home a {
+    text-decoration: none;
+    color: white;
+}
+
